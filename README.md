@@ -4,7 +4,7 @@
 
   <!-- animated intro -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=650&random=23&lines=hi%2C+I'm+Gloria!+🐥;computer+science+student+%26+developer;always+learning%2C+always+creating"
+    src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=650&random=2&lines=hi%2C+I%27m+Gloria%21+%F0%9F%90%A5&lines=computer+science+student+%26+developer&lines=always+learning%2C+always+creating"
     alt="animated typing intro"
   />
 
