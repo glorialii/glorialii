@@ -1,21 +1,69 @@
-# 💫 hi, i'm gloria! welcome to my profile:
-currently working on: a health and fitness app
+<!-- profile README for @glorialii -->
 
+<div align="center">
 
-## 🌐 connect w me :):
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gloria-li-51339a240) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gloriali4cu@gmail.com) 
+  <h1>hi, i'm gloria 👋</h1>
+  <p><b>cs student & developer · currently building a health + fitness app</b></p>
 
-# 💻 tech stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-# 📊 github stats:
-![](https://github-readme-stats.vercel.app/api?username=glorialii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=glorialii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=glorialii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <br/>
 
-## 🏆 my github trophies
-![](https://github-profile-trophy.vercel.app/?username=glorialii&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+  <!-- socials -->
+  <a href="https://linkedin.com/in/gloria-li-51339a240">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gloriali4cu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=glorialii&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 currently
+
+- 🧱 building a **health & fitness club management app**
+- 📚 learning more about **databases, C++**, and **backend dev**
+- 🎯 always tweaking UI/UX and making things more aesthetic
+
+---
+
+### 🧰 tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white" />
+</p>
+
+---
+
+### 📊 github stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=glorialii&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://nirzak-streak-stats.vercel.app/?user=glorialii&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorialii&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+### 🏆 trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=glorialii&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=glorialii&icon=0&color=8" />
+</p>
+
+<!-- Proudly customized from GPRM template -->
