@@ -1,57 +1,72 @@
-<!-- profile README for @glorialii -->
+<!-- Animated Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=200&section=header&text=Gloria%20Li&fontSize=60&fontColor=ffffff)
 
-<div align="center">
-
-  <!-- animated intro -->
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Nunito&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=650&random=2&lines=hi%2C+I%27m+Gloria%21+%F0%9F%90%A5&lines=computer+science+student+%26+developer&lines=always+learning%2C+always+creating"
-    alt="animated typing intro"
-  />
-
-  <br/>
-
-  <p><b>b.sc computer sci 4th year student @ Carleton University with a focus on software, data, AI, and user-centric design.</b></p>
-
-  <br/>
-
-  <!-- socials -->
-  <a href="https://linkedin.com/in/gloria-li-51339a240">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gloriali4cu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF8DAA?style=flat&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
-
----
-
-### 🌸 currently i am...
-
-- 🧭 Designing and building a **health & fitness club management system**
-- 📚 Deepening my skills in **databases, C++**, and **backend development**
-- 🎀 Exploring **UI/UX** to make technical projects feel more intuitive and aesthetically pleasing
-
----
-
-### 🎀 tech stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-FFB6C1?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-FF9EC4?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-FF9EC4?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-FF99CC?style=flat&logo=javascript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/LaTeX-FF8FAB?style=flat&logo=latex&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Illustrator-FF7BAC?style=flat&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/After_Effects-F7A8B8?style=flat&logo=adobeaftereffects&logoColor=white" />
-</p>
-
----
-
-### 🏆 trophies
+<h2 align="center">Hi, I'm Gloria 👋</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=glorialii&theme=radical&no-frame=true&margin-w=10" />
+  <b>Computer Science Student @ Carleton University</b> <br>
+  AI & Machine Learning Stream • PSPC FSWEP Student Worker • Taekwondo Instructor
 </p>
 
 ---
+
+### 🚀 About Me  
+- 🎓 3rd-year B.C.S. student passionate about **backend development**, **databases**, and **software systems**  
+- 🏛️ Currently working at **Public Services and Procurement Canada (PSPC)** on compensation modernization tools (C#, Excel/VBA reverse engineering, documentation)  
+- 🥋 Taekwondo athlete & instructor — disciplined, competitive, and always improving  
+- 🐱 Cat mom to **Nova**  
+- 🎨 Outside of CS: UX design, fitness, travel, and photography
+
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,postgresql,cpp,cs,git,github,html,css,js,react,qt,figma,vscode,linux" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=glorialii&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorialii&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Health & Fitness Club System** | CLI + PostgreSQL system with Member, Trainer, & Admin operations | Python, PostgreSQL |
+| **Insulin Pump Simulator (Qt)** | ControlIQ-style insulin delivery simulator with CGM logic | C++, Qt |
+| **AI Tutor Program** | Personalized tutoring agent with memory + spaced repetition | Python, ML |
+| **Library Database System** | Full SQL design + queries (DDL, DML, triggers) | PostgreSQL |
+
+---
+
+### 💼 Experience  
+
+**Federal Student Worker — PSPC (Compensation Modernization)**  
+*2025–Present*  
+- Reverse-engineered legacy Excel-based calculators (Severance, Parental Benefits, LIA/LAP, etc.)  
+- Produced technical summaries for modernization  
+- Analyzed VBA vs worksheet logic & converted flows into C#/modern tooling  
+- Wrote polished documentation using Government of Canada formatting  
+- Improved tool accuracy and reliability in compensation workflows
+
+---
+
+### 🌐 Connect With Me  
+<p>
+ <a href="https://www.linkedin.com/in/gloria-li-51339a240/">
+   <img src="https://skillicons.dev/icons?i=linkedin" />
+ </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting! ⭐
+</p>
+
