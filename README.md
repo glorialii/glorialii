@@ -10,7 +10,7 @@
 
   <br/>
 
-  <p><b>CS student with a focus on software, data, AI, and user-centric design.</b></p>
+  <p><b>b.sc Computer Science student @ Carleton University with a focus on software, data, AI, and user-centric design.</b></p>
 
   <br/>
 
