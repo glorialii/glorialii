@@ -1,5 +1,5 @@
-<!-- Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=200&section=header&text=Gloria%20Li&fontSize=60&fontColor=ffffff)
+<!-- Animated Pink Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ff9ecd&height=200&section=header&text=Gloria%20Li&fontSize=60&fontColor=ffffff)
 
 <h2 align="center">Hi, I'm Gloria 👋</h2>
 
@@ -10,31 +10,30 @@
 
 ---
 
-### 🚀 About Me  
+### 💖 About Me  
 - 🎓 3rd-year B.C.S. student passionate about **backend development**, **databases**, and **software systems**  
-- 🏛️ Currently working at **Public Services and Procurement Canada (PSPC)** on compensation modernization tools (C#, Excel/VBA reverse engineering, documentation)  
+- 🏛️ Currently working at **Public Services and Procurement Canada (PSPC)** on modernization of compensation tools  
 - 🥋 Taekwondo athlete & instructor — disciplined, competitive, and always improving  
-- 🐱 Cat mom to **Nova**  
-- 🎨 Outside of CS: UX design, fitness, travel, and photography
+- 🎨 Loves UX design, fitness, travel, and aesthetic digital projects
 
 ---
 
-### 🛠 Tech Stack
+### 🎀 Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,postgresql,cpp,cs,git,github,html,css,js,react,qt,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,postgresql,cpp,cs,git,github,html,css,js,react,qt,figma,vscode,linux&theme=light" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Pink Theme!)
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=glorialii&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorialii&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=glorialii&show_icons=true&theme=rose_pine" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorialii&layout=compact&theme=rose_pine" />
 </p>
 
 ---
 
-### 🔥 Featured Projects
+### 🌸 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
@@ -49,24 +48,24 @@
 
 **Federal Student Worker — PSPC (Compensation Modernization)**  
 *2025–Present*  
-- Reverse-engineered legacy Excel-based calculators (Severance, Parental Benefits, LIA/LAP, etc.)  
-- Produced technical summaries for modernization  
-- Analyzed VBA vs worksheet logic & converted flows into C#/modern tooling  
-- Wrote polished documentation using Government of Canada formatting  
-- Improved tool accuracy and reliability in compensation workflows
+- Reverse-engineered legacy Excel-based compensation calculators  
+- Produced modernization summaries with detailed workflows  
+- Analyzed VBA vs worksheet logic and assisted with C# conversions  
+- Wrote clear, high-quality documentation following GC standards  
+- Improved reliability and structure of compensation tools
 
 ---
 
 ### 🌐 Connect With Me  
 <p>
  <a href="https://www.linkedin.com/in/gloria-li-51339a240/">
-   <img src="https://skillicons.dev/icons?i=linkedin" />
+   <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting! ⭐
+  🌸 <b>Thanks for visiting!</b> 🌸
 </p>
 
