@@ -1,5 +1,5 @@
-# 💫 About Me:
-a health and fitness app
+# 💫 Hi, I'm Gloria! Welcome to my profile:
+currently: a health and fitness app
 
 
 ## 🌐 Socials:
