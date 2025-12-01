@@ -10,8 +10,7 @@
 
   <br/>
 
-  <p><b>CS student with a focus on software, data, and user-centric design.</b></p>
-  <p><i>Currently developing a health & fitness club management app.</i></p>
+  <p><b>CS student with a focus on software, data, AI, and user-centric design.</b></p>
 
   <br/>
 
