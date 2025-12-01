@@ -55,7 +55,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=glorialii&icon=0&color=ff69b4" />
-</p>
