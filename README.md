@@ -26,7 +26,7 @@
 
 ---
 
-### 🌸 currently
+### 🌸 currently i am...
 
 - 🧭 Designing and building a **health & fitness club management system**
 - 📚 Deepening my skills in **databases, C++**, and **backend development**
