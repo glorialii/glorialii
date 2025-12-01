@@ -28,9 +28,9 @@
 
 ### 🌸 currently
 
-- 🧭 Designing and building a **health & fitness club management system** (PostgreSQL + Python).
-- 📚 Deepening my skills in **databases, C++**, and **backend development**.
-- 🎀 Exploring **UI/UX** to make technical projects feel more intuitive and aesthetically pleasing.
+- 🧭 Designing and building a **health & fitness club management system**
+- 📚 Deepening my skills in **databases, C++**, and **backend development**
+- 🎀 Exploring **UI/UX** to make technical projects feel more intuitive and aesthetically pleasing
 
 ---
 
