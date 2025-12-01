@@ -48,4 +48,4 @@
 ---
 
 <p align="center">
-  🌸 <b>Thanks for visit
+  🌸 <b>Thanks for visiting my GitHub!
