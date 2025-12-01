@@ -48,25 +48,6 @@
 </p>
 
 ---
-
-### 📊 github stats
-
-<p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=glorialii&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FFB6C1"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="150"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorialii&layout=compact&theme=radical&hide_border=true&title_color=FF69B4"
-  />
-</p>
-
----
-
 ### 🏆 trophies
 
 <p align="center">
