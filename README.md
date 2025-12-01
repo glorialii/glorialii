@@ -23,14 +23,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=glorialii&show_icons=true&theme=rose_pine" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glorialii&layout=compact&theme=rose_pine" />
-</p>
-
----
-
 ### 🌸 Featured Projects
 
 | Project | Description | Tech |
@@ -46,6 +38,11 @@
  <a href="https://www.linkedin.com/in/gloria-li-51339a240/">
    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" />
  </a>
+
+   <a href="mailto:gloriali4cu@gmail.com">
+   <img src="https://img.shields.io/badge/email-ff9ecd?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
+</p>
 </p>
 
 ---
